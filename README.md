@@ -1,1 +1,1 @@
-# gsm-introduce
+대충 학교 소개
